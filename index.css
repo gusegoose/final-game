@@ -1,18 +1,24 @@
 
-.bi {
-    
 
-    width: 100px;
-    height: 100px;
-    position: relative;
-    margin-left: 150px;
-
-}
 .h1{
-color: lime;
+color: black;
 
 }
 
 body{
     background-color: aquamarine;
+}
+.h2{
+color: grey;
+
+}
+
+.play{
+  
+    text-align: center;
+    color: brown;
+    
+
+
+
 }
