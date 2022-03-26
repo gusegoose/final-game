@@ -1,2 +1,20 @@
 
- 
+.bi {
+    
+
+    width: 100px;
+    height: 100px;
+    position: relative;
+    margin-left: 150px;
+
+}
+.h1{
+color: lime;
+
+}
+html{
+    background-color: red;
+}
+body{
+    background-color: aquamarine;
+}
