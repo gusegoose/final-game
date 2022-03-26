@@ -5,11 +5,8 @@ color: black;
 
 }
 
-body{
-    background-color: aquamarine;
-}
 .h2{
-color: grey;
+color: #40AF2F;
 
 }
 
@@ -17,8 +14,10 @@ color: grey;
   
     text-align: center;
     color: brown;
-    
-
-
-
-}
+    }
+    .container{
+        max-width: 50px;
+    }
+    body{
+        background-color: blue;
+    }
