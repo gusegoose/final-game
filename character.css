@@ -1,11 +1,10 @@
-img{
-    width: 750px;
-    height: 750px;
-    margin-top: 250px;
 
-}
+
+
 body{
-    background-color: black;
+    background-color: #252839;
+   
+
 }
 .image1{
     width: 400px;
@@ -22,7 +21,28 @@ body{
     width: 400px;
     height: 400px;
     margin-left: 100px;
-    margin-top: 20px;
+    margin-top: 250px;
     
+}
+h1{
+    color: #252839;
+    margin-top: -650px;
+    font-size: xx-large;
+  position: relative;
+    margin-left: 250px;
+   transition: 0.5s;
+   -webkit-text-stroke: 0.3px #383d52;
+   text-transform: uppercase;
+   text-align: center;
 
+}
+h1::before{
+
+    content: attr(data-text);
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    color: #01fe87;
 }
