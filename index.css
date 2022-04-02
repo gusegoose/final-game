@@ -1,7 +1,7 @@
 
 
 .h1{
-color: black;
+color: #0AA2C0;
 
 }
    .container{
@@ -21,8 +21,7 @@ width: 500px;
 height: 500px;
 
    }
-  
-  
-   body{
-       background-color: black;
+
+    .h3{
+       color: #20C997;
     }
