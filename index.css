@@ -54,10 +54,11 @@ body{
    color: #1abc9c;
 }
     img{
-      width: 200px;
-      height: 200px;
-      margin-left: 600px;
-      margin-top: 300px;
+      width: 300px;
+      height: 300px;
+      margin-left: 580px;
+      margin-top: 200px;
+      position: relative;
       transition: 0.5s;
       
      
@@ -65,8 +66,8 @@ body{
 
    img:hover{
  
-      width: 300px;
-      height: 300px;
+      width: 320px;
+      height: 320px;
       
       
          }
