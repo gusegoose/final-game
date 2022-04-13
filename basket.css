@@ -21,7 +21,7 @@ body{
         margin-bottom: -40px;
     }
     30%{
-        letter-spacing: 25px;
+        letter-spacing: 20px;
         margin-bottom: -40px;
     }
     85%{
@@ -30,16 +30,16 @@ body{
     }
 }
 
-.text1{
-    font-size: 25px;
-    color: #1abc9c;
-}
-
 img{
     margin-top: 200px;
-    margin-left: 430px;
+    margin-left: 450px;
 }
 
-
+div {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
 
 
