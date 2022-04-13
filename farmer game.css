@@ -1,0 +1,25 @@
+.game {
+width: 600px;
+height:  200px;
+ border: 1px solid black;
+ margin: auto
+}
+
+#farmer {
+width: 50px;
+height: 50px;
+background-image: url(chicken.png);
+background-size: 50px 50px;
+transform: scaleX(-1);
+position: relative;
+top: 150px;
+}
+
+@keyframes jump {
+0% {
+    top: 150px;
+}
+30% {
+    top: 130px;
+}
+}
