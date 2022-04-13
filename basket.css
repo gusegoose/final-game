@@ -1,7 +1,7 @@
 
 
 body{
-    background-color: #000;
+    background-color: rgb(2, 102, 133);
 
 }
 
@@ -11,14 +11,35 @@ body{
     font-weight: 700;
     letter-spacing: 8px;
     margin-left: 300px;
-    background: black;
     position: center;
     animation: text 3s 1;
 }
 
+@keyframes text {
+    0%{
+        color: #000;
+        margin-bottom: -40px;
+    }
+    30%{
+        letter-spacing: 25px;
+        margin-bottom: -40px;
+    }
+    85%{
+        letter-spacing: 8px;
+        margin-bottom: -40px;
+    }
+}
+
+.text1{
+    font-size: 25px;
+    color: #1abc9c;
+}
 
 img{
     margin-top: 200px;
     margin-left: 430px;
 }
+
+
+
 
