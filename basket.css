@@ -7,28 +7,18 @@ body{
 
 .text{
     color: white;
-    font-size: 78px;
+    font-size: 68px;
     font-weight: 700;
     letter-spacing: 8px;
-    margin-bottom: 20px;
+    margin-left: 300px;
     background: black;
-    position: relative;
+    position: center;
     animation: text 3s 1;
 }
 
-.text1{
-    color: #1abc9c;
-    font-size: 70px;
-    font-weight: 700;
-    letter-spacing: 8px;
-    margin-bottom: 20px;
-    background: black;
-    position: relative;
-    animation: text 3s 1;
-}
 
 img{
-    margin-top: 500px;
-    margin-left: 600px;
+    margin-top: 200px;
+    margin-left: 430px;
 }
 
