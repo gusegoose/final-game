@@ -32,7 +32,7 @@ body{
    background: black;
    position: relative;
    animation: text 3s 1;
-}
+} 
 
 @keyframes text {
    0%{
